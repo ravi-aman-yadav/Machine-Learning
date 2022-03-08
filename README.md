@@ -7,5 +7,3 @@
 - 🥅 2022 Goals: Learn more about python and Data Science
 - Fun fact: I love to ride motorcycle and is to play football
 
-### Connect with me:
-[<img align="left" alt="" width="22px" src="https://github.com/Amanblackdevil/Machine-Learning"/>
