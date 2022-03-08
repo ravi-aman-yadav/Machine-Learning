@@ -8,4 +8,4 @@
 - Fun fact: I love to ride motorcycle and is to play football
 
 ### Connect with me:
-[<img align="left" alt="github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>[website]
+[<img align="left" alt="github.com" width="22px" src="https://github.com/Amanblackdevil/Machine-Learning"/>
